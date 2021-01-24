@@ -20,4 +20,4 @@ Tests my rotation functions to ensure PacMan rotates in the expected direction
 
 # PacMan.java
 
-Sets up the root and the scence for the game to run
+Sets up the root and the scene for the game to run
